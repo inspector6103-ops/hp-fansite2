@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "볼드모트와 연결된 운명을 지닌 선택받은 아이"
+  },
+  {
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "뛰어난 지능과 학구열을 지닌 마녀"
+  },
+  {
+    "name": "Ron Weasley",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "위즐리 가문의 아들, 해리의 절친"
+  },
+  {
+    "name": "Neville Longbottom",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "어리숙하지만 결국 용기를 발휘한 학생"
+  },
+  {
+    "name": "Ginny Weasley",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "위즐리 가문의 막내딸, 해리의 아내"
+  },
+  {
+    "name": "Fred Weasley",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "쌍둥이 장난꾸러기 형제 중 형"
+  },
+  {
+    "name": "George Weasley",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "쌍둥이 장난꾸러기 형제 중 동생"
+  },
+  {
+    "name": "Percy Weasley",
+    "house": "Gryffindor",
+    "role": "학생",
+    "description": "야심가적 성향을 가진 위즐리 형제"
+  },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "role": "학생",
+    "description": "슬리데린의 대표적인 순수혈통 학생"
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "role": "학생",
+    "description": "독창적이고 엉뚱한 성격을 가진 학생"
+  },
+  {
+    "name": "Cho Chang",
+    "house": "Ravenclaw",
+    "role": "학생",
+    "description": "퀴디치 시커, 해리의 첫 연인"
+  },
+  {
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff",
+    "role": "학생",
+    "description": "트리위저드 시합에 출전한 모범생"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "house": "Gryffindor",
+    "role": "교장",
+    "description": "호그와트 교장, 위대한 마법사"
+  },
+  {
+    "name": "Minerva McGonagall",
+    "house": "Gryffindor",
+    "role": "교수",
+    "description": "변신술 교수, 부교장"
+  },
+  {
+    "name": "Severus Snape",
+    "house": "Slytherin",
+    "role": "교수",
+    "description": "마법약 교수, 후에 교장"
+  },
+  {
+    "name": "Rubeus Hagrid",
+    "house": "Gryffindor",
+    "role": "사냥터지기",
+    "description": "마법 생물 돌봄 교수, 호그와트 사냥터지기"
+  },
+  {
+    "name": "Sirius Black",
+    "house": "Gryffindor",
+    "role": "불사조 기사단",
+    "description": "해리의 대부, 블랙 가문 출신"
+  },
+  {
+    "name": "Remus Lupin",
+    "house": "Gryffindor",
+    "role": "교수/불사조 기사단",
+    "description": "어둠의 마법 방어술 교수, 늑대인간"
+  },
+  {
+    "name": "Nymphadora Tonks",
+    "house": "Hufflepuff",
+    "role": "불사조 기사단",
+    "description": "변신술 능력이 뛰어난 오러"
+  },
+  {
+    "name": "Bellatrix Lestrange",
+    "house": "Slytherin",
+    "role": "죽음을 먹는 자",
+    "description": "볼드모트의 충직한 추종자"
+  },
+  {
+    "name": "Lucius Malfoy",
+    "house": "Slytherin",
+    "role": "죽음을 먹는 자",
+    "description": "말포이 가문의 가장"
+  },
+  {
+    "name": "Peter Pettigrew",
+    "house": "Gryffindor",
+    "role": "죽음을 먹는 자",
+    "description": "해리 부모의 친구였으나 배신"
+  },
+  {
+    "name": "Voldemort",
+    "house": "Slytherin",
+    "role": "어둠의 군주",
+    "description": "톰 리들, 어둠의 마왕"
+  },
+  {
+    "name": "Nagini",
+    "house": "None",
+    "role": "마법 생물",
+    "description": "볼드모트의 뱀이자 혼의 조각"
+  },
+  {
+    "name": "Godric Gryffindor",
+    "house": "Gryffindor",
+    "role": "창립자",
+    "description": "호그와트의 창립자 중 하나"
+  },
+  {
+    "name": "Salazar Slytherin",
+    "house": "Slytherin",
+    "role": "창립자",
+    "description": "호그와트의 창립자 중 하나"
+  },
+  {
+    "name": "Rowena Ravenclaw",
+    "house": "Ravenclaw",
+    "role": "창립자",
+    "description": "호그와트의 창립자 중 하나"
+  },
+  {
+    "name": "Helga Hufflepuff",
+    "house": "Hufflepuff",
+    "role": "창립자",
+    "description": "호그와트의 창립자 중 하나"
+  },
+  {
+    "name": "James Potter",
+    "house": "Gryffindor",
+    "role": "불사조 기사단",
+    "description": "해리의 아버지"
+  },
+  {
+    "name": "Lily Potter",
+    "house": "Gryffindor",
+    "role": "불사조 기사단",
+    "description": "해리의 어머니"
+  },
+  {
+    "name": "Molly Weasley",
+    "house": "Gryffindor",
+    "role": "마녀",
+    "description": "위즐리 가문의 어머니"
+  },
+  {
+    "name": "Arthur Weasley",
+    "house": "Gryffindor",
+    "role": "마법부",
+    "description": "머글 물건에 관심 많은 아버지"
+  },
+  {
+    "name": "Bill Weasley",
+    "house": "Gryffindor",
+    "role": "그린고트",
+    "description": "저주 파괴 전문가"
+  },
+  {
+    "name": "Charlie Weasley",
+    "house": "Gryffindor",
+    "role": "드래곤 조련사",
+    "description": "루마니아에서 드래곤을 돌봄"
+  },
+  {
+    "name": "Fleur Delacour",
+    "house": "Beauxbatons",
+    "role": "학생",
+    "description": "트리위저드 시합 참가자"
+  },
+  {
+    "name": "Viktor Krum",
+    "house": "Durmstrang",
+    "role": "퀴디치 선수",
+    "description": "불가리아 대표 시커"
+  },
+  {
+    "name": "Madam Maxime",
+    "house": "Beauxbatons",
+    "role": "교장",
+    "description": "보바통의 교장, 거인족 혈통"
+  },
+  {
+    "name": "Igor Karkaroff",
+    "house": "Durmstrang",
+    "role": "교장",
+    "description": "덤스트랭 교장, 죽음을 먹는 자 출신"
+  },
+  {
+    "name": "Horace Slughorn",
+    "house": "Slytherin",
+    "role": "교수",
+    "description": "마법약 교수, 인맥 관리에 능함"
+  },
+  {
+    "name": "Dolores Umbridge",
+    "house": "Slytherin",
+    "role": "마법부",
+    "description": "잠시 호그와트 교수직 담당"
+  },
+  {
+    "name": "Kingsley Shacklebolt",
+    "house": "None",
+    "role": "불사조 기사단",
+    "description": "능력 있는 오러, 후에 마법부 장관"
+  },
+  {
+    "name": "Alastor Moody",
+    "house": "None",
+    "role": "불사조 기사단",
+    "description": "경험 많은 오러, 매드아이"
+  },
+  {
+    "name": "Gellert Grindelwald",
+    "house": "Durmstrang",
+    "role": "어둠의 마법사",
+    "description": "덤블도어의 과거 친구이자 적"
+  },
+  {
+    "name": "Bathilda Bagshot",
+    "house": "None",
+    "role": "역사학자",
+    "description": "『마법사의 역사』 저자"
+  },
+  {
+    "name": "Rita Skeeter",
+    "house": "None",
+    "role": "기자",
+    "description": "데일리 프로핏 기자"
+  },
+  {
+    "name": "Aberforth Dumbledore",
+    "house": "None",
+    "role": "호그스미드",
+    "description": "호그스헤드 주인, 알버스의 동생"
+  },
+  {
+    "name": "Nearly Headless Nick",
+    "house": "Gryffindor",
+    "role": "유령",
+    "description": "그리핀도르 유령"
+  },
+  {
+    "name": "Moaning Myrtle",
+    "house": "Ravenclaw",
+    "role": "유령",
+    "description": "욕실에 출몰하는 유령 학생"
+  },
+  {
+    "name": "Bloody Baron",
+    "house": "Slytherin",
+    "role": "유령",
+    "description": "슬리데린 유령"
+  },
+  {
+    "name": "Fat Friar",
+    "house": "Hufflepuff",
+    "role": "유령",
+    "description": "후플푸프 유령"
+  },
+  {
+    "name": "Character51",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character52",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character53",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character54",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character55",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character56",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character57",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character58",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character59",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character60",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character61",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character62",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character63",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character64",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character65",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character66",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character67",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character68",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character69",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character70",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character71",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character72",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character73",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character74",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character75",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character76",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character77",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character78",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character79",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character80",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character81",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character82",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character83",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character84",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character85",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character86",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character87",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character88",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character89",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character90",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character91",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character92",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character93",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character94",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character95",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character96",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character97",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character98",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character99",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character100",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character101",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character102",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character103",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character104",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character105",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character106",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character107",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character108",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character109",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character110",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character111",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character112",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character113",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character114",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character115",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character116",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character117",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character118",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character119",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character120",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character121",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character122",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character123",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character124",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character125",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character126",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character127",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character128",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character129",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character130",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character131",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character132",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character133",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character134",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character135",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character136",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character137",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character138",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character139",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character140",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character141",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character142",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character143",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character144",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character145",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character146",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character147",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character148",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character149",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character150",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character151",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character152",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character153",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character154",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character155",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character156",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character157",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character158",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character159",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character160",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character161",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character162",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character163",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character164",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character165",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character166",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character167",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character168",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character169",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character170",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character171",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character172",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character173",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character174",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character175",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character176",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character177",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character178",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character179",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character180",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character181",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character182",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character183",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character184",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character185",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character186",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character187",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character188",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character189",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character190",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character191",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character192",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character193",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character194",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character195",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character196",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character197",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character198",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character199",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Character200",
+    "house": "None",
+    "role": "Unknown",
+    "description": "자리 채움"
+  }
+]

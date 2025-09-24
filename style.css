@@ -1,0 +1,49 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 20px;
+  background: #f4f4f4;
+}
+
+header {
+  background: #222;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* 기숙사 테마 */
+body.gryffindor { background: #7f0909; color: #f5f5dc; }
+body.slytherin  { background: #1a472a; color: #dcdcdc; }
+body.ravenclaw  { background: #0e1a40; color: #e1e1e1; }
+body.hufflepuff { background: #ecb939; color: #000; }

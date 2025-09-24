@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Accio",
+    "korean_name": "호출 주문",
+    "description": "멀리 있는 대상을 끌어옴"
+  },
+  {
+    "name": "Alohomora",
+    "korean_name": "잠금 해제 주문",
+    "description": "문이나 자물쇠를 연다"
+  },
+  {
+    "name": "Expelliarmus",
+    "korean_name": "무장 해제 주문",
+    "description": "상대 무기를 떨어뜨림"
+  },
+  {
+    "name": "Stupefy",
+    "korean_name": "기절 주문",
+    "description": "상대를 기절시킴"
+  },
+  {
+    "name": "Petrificus Totalus",
+    "korean_name": "전신 마비 주문",
+    "description": "상대를 마비시킴"
+  },
+  {
+    "name": "Lumos",
+    "korean_name": "빛 주문",
+    "description": "지팡이에 빛을 켬"
+  },
+  {
+    "name": "Nox",
+    "korean_name": "빛 끄기 주문",
+    "description": "지팡이 빛을 끔"
+  },
+  {
+    "name": "Expecto Patronum",
+    "korean_name": "패트로누스 주문",
+    "description": "디멘터를 물리치는 수호령 소환"
+  },
+  {
+    "name": "Protego",
+    "korean_name": "보호막 주문",
+    "description": "방어막 생성"
+  },
+  {
+    "name": "Obliviate",
+    "korean_name": "망각 주문",
+    "description": "기억 삭제"
+  },
+  {
+    "name": "Crucio",
+    "korean_name": "크루시아투스 저주",
+    "description": "극심한 고통 부여"
+  },
+  {
+    "name": "Imperio",
+    "korean_name": "임페리우스 저주",
+    "description": "상대 조종"
+  },
+  {
+    "name": "Avada Kedavra",
+    "korean_name": "살인 저주",
+    "description": "즉사 효과"
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "korean_name": "부양 주문",
+    "description": "대상을 띄움"
+  },
+  {
+    "name": "Sectumsempra",
+    "korean_name": "상처 주문",
+    "description": "깊은 베임 생성"
+  },
+  {
+    "name": "Incendio",
+    "korean_name": "불꽃 주문",
+    "description": "불을 붙임"
+  },
+  {
+    "name": "Reducto",
+    "korean_name": "파괴 주문",
+    "description": "물체를 산산조각냄"
+  },
+  {
+    "name": "Silencio",
+    "korean_name": "침묵 주문",
+    "description": "목소리를 막음"
+  },
+  {
+    "name": "Rictusempra",
+    "korean_name": "간지럼 주문",
+    "description": "상대를 간지럽힘"
+  },
+  {
+    "name": "Aparecium",
+    "korean_name": "잉크 드러내기",
+    "description": "숨겨진 글씨 드러냄"
+  },
+  {
+    "name": "Colloportus",
+    "korean_name": "잠금 주문",
+    "description": "문을 봉인"
+  },
+  {
+    "name": "Diffindo",
+    "korean_name": "절단 주문",
+    "description": "물체를 자름"
+  },
+  {
+    "name": "Engorgio",
+    "korean_name": "확대 주문",
+    "description": "대상을 크게 만듦"
+  },
+  {
+    "name": "Episkey",
+    "korean_name": "치료 주문",
+    "description": "작은 부상 치료"
+  },
+  {
+    "name": "Finite Incantatem",
+    "korean_name": "종료 주문",
+    "description": "주문 효과 해제"
+  },
+  {
+    "name": "Impedimenta",
+    "korean_name": "방해 주문",
+    "description": "대상의 움직임 방해"
+  },
+  {
+    "name": "Levicorpus",
+    "korean_name": "거꾸로 매달기 주문",
+    "description": "상대를 공중에 매달음"
+  },
+  {
+    "name": "Liberacorpus",
+    "korean_name": "거꾸로 매달기 해제",
+    "description": "레비코르푸스 해제"
+  },
+  {
+    "name": "Locomotor",
+    "korean_name": "이동 주문",
+    "description": "대상을 움직임"
+  },
+  {
+    "name": "Morsmordre",
+    "korean_name": "죽먹 표시",
+    "description": "어둠의 표식 소환"
+  },
+  {
+    "name": "Muffliato",
+    "korean_name": "귀 막기 주문",
+    "description": "주위 사람들의 귀를 막음"
+  },
+  {
+    "name": "Obscuro",
+    "korean_name": "눈가리개 주문",
+    "description": "상대 눈을 가림"
+  },
+  {
+    "name": "Portus",
+    "korean_name": "포트키 생성",
+    "description": "포트키를 만든다"
+  },
+  {
+    "name": "Relashio",
+    "korean_name": "해제 주문",
+    "description": "붙잡힌 것을 놓게 함"
+  },
+  {
+    "name": "Reparo",
+    "korean_name": "수리 주문",
+    "description": "깨진 물체를 고침"
+  },
+  {
+    "name": "Scourgify",
+    "korean_name": "청소 주문",
+    "description": "오물 청소"
+  },
+  {
+    "name": "Sonorus",
+    "korean_name": "확성 주문",
+    "description": "목소리를 크게 함"
+  },
+  {
+    "name": "Quietus",
+    "korean_name": "소리 줄이기",
+    "description": "확성 해제"
+  },
+  {
+    "name": "Tarantallegra",
+    "korean_name": "춤추기 주문",
+    "description": "상대 다리를 춤추게 함"
+  },
+  {
+    "name": "Waddiwasi",
+    "korean_name": "물체 발사 주문",
+    "description": "작은 물체를 쏘아냄"
+  },
+  {
+    "name": "Aguamenti",
+    "korean_name": "물 생성 주문",
+    "description": "물 생성"
+  },
+  {
+    "name": "Anapneo",
+    "korean_name": "기도 확보 주문",
+    "description": "호흡 곤란 해소"
+  },
+  {
+    "name": "Arresto Momentum",
+    "korean_name": "속도 감속 주문",
+    "description": "낙하를 늦춤"
+  },
+  {
+    "name": "Cave Inimicum",
+    "korean_name": "방어 경계 주문",
+    "description": "외부 침입 감지"
+  },
+  {
+    "name": "Confringo",
+    "korean_name": "폭발 주문",
+    "description": "강력한 폭발 발생"
+  },
+  {
+    "name": "Confundo",
+    "korean_name": "혼란 주문",
+    "description": "상대를 혼란시킴"
+  },
+  {
+    "name": "Deletrius",
+    "korean_name": "삭제 주문",
+    "description": "흔적 제거"
+  },
+  {
+    "name": "Densaugeo",
+    "korean_name": "이빨 확대 주문",
+    "description": "이빨이 커짐"
+  },
+  {
+    "name": "Descendo",
+    "korean_name": "내려오기 주문",
+    "description": "대상을 내림"
+  },
+  {
+    "name": "Duro",
+    "korean_name": "돌 변환 주문",
+    "description": "대상을 돌로 변환"
+  },
+  {
+    "name": "Evanesco",
+    "korean_name": "소멸 주문",
+    "description": "대상을 사라지게 함"
+  },
+  {
+    "name": "Expulso",
+    "korean_name": "폭발 주문",
+    "description": "강력한 폭발 발생"
+  },
+  {
+    "name": "Ferula",
+    "korean_name": "붕대 주문",
+    "description": "붕대를 소환"
+  },
+  {
+    "name": "Furnunculus",
+    "korean_name": "종기 주문",
+    "description": "상대 몸에 종기 발생"
+  },
+  {
+    "name": "Gemino",
+    "korean_name": "복제 주문",
+    "description": "물체 복제"
+  },
+  {
+    "name": "Glisseo",
+    "korean_name": "미끄럼 주문",
+    "description": "계단을 미끄럼틀로 바꿈"
+  },
+  {
+    "name": "Homenum Revelio",
+    "korean_name": "인간 탐지 주문",
+    "description": "사람 존재 감지"
+  },
+  {
+    "name": "Homorphus",
+    "korean_name": "늑대인간 억제 주문",
+    "description": "늑대인간 억제"
+  },
+  {
+    "name": "Immobilus",
+    "korean_name": "정지 주문",
+    "description": "대상을 멈춤"
+  },
+  {
+    "name": "Langlock",
+    "korean_name": "혀 붙이기 주문",
+    "description": "혀를 붙여 말을 못 하게 함"
+  },
+  {
+    "name": "Legilimens",
+    "korean_name": "레질리먼시",
+    "description": "상대 마음을 읽음"
+  },
+  {
+    "name": "Mobilicorpus",
+    "korean_name": "시체 이동 주문",
+    "description": "무생물/사람 이동"
+  },
+  {
+    "name": "Morsmordre",
+    "korean_name": "죽음을 먹는 자 표식",
+    "description": "다크 마크 소환"
+  },
+  {
+    "name": "Obliviate",
+    "korean_name": "망각 주문",
+    "description": "기억 제거"
+  },
+  {
+    "name": "Oppugno",
+    "korean_name": "공격 주문",
+    "description": "소환된 동물을 공격하게 함"
+  },
+  {
+    "name": "Orchideous",
+    "korean_name": "꽃다발 주문",
+    "description": "꽃다발 소환"
+  },
+  {
+    "name": "Periculum",
+    "korean_name": "빨간 불꽃",
+    "description": "신호용 불꽃"
+  },
+  {
+    "name": "Priori Incantatem",
+    "korean_name": "과거 주문 드러내기",
+    "description": "지팡이의 마지막 주문 확인"
+  },
+  {
+    "name": "Protego Maxima",
+    "korean_name": "강력한 보호막",
+    "description": "강화된 방어막 생성"
+  },
+  {
+    "name": "Salvio Hexia",
+    "korean_name": "보호 주문",
+    "description": "저주 방어"
+  },
+  {
+    "name": "Serpensortia",
+    "korean_name": "뱀 소환 주문",
+    "description": "뱀을 소환"
+  },
+  {
+    "name": "Specialis Revelio",
+    "korean_name": "마법 탐지",
+    "description": "마법 성질을 드러냄"
+  },
+  {
+    "name": "Tergeo",
+    "korean_name": "청소 주문",
+    "description": "액체를 흡수"
+  },
+  {
+    "name": "Ventus",
+    "korean_name": "바람 생성 주문",
+    "description": "바람을 일으킴"
+  },
+  {
+    "name": "Vulnera Sanentur",
+    "korean_name": "상처 치료 주문",
+    "description": "심각한 상처 치료"
+  },
+  {
+    "name": "Spell76",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell77",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell78",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell79",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell80",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell81",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell82",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell83",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell84",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell85",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell86",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell87",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell88",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell89",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell90",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell91",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell92",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell93",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell94",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell95",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell96",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell97",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell98",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell99",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell100",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell101",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell102",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell103",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell104",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell105",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell106",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell107",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell108",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell109",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell110",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell111",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell112",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell113",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell114",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell115",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell116",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell117",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell118",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell119",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell120",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell121",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell122",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell123",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell124",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell125",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell126",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell127",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell128",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell129",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell130",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell131",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell132",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell133",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell134",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell135",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell136",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell137",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell138",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell139",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell140",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell141",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell142",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell143",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell144",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell145",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell146",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell147",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell148",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell149",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell150",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell151",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell152",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell153",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell154",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell155",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell156",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell157",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell158",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell159",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell160",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell161",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell162",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell163",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell164",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell165",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell166",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell167",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell168",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell169",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell170",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell171",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell172",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell173",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell174",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell175",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell176",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell177",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell178",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell179",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell180",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell181",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell182",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell183",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell184",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell185",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell186",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell187",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell188",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell189",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell190",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell191",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell192",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell193",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell194",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell195",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell196",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell197",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell198",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell199",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  },
+  {
+    "name": "Spell200",
+    "korean_name": "추가 주문",
+    "description": "자리 채움"
+  }
+]
